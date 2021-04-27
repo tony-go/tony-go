@@ -1,16 +1,26 @@
-### Hi there 👋
+# 👋 Hi, my name is Tony
 
-<!--
-**tony-go/tony-go** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm a `software engineer`, passionate about computer science. I dedicate a lot of my personnal time into OSS, learning & [sharing](https://www.youtube.com/channel/UC0yiy-XPDRVAgLaAiA8kvrQ)).
 
 - 🔭 I’m currently working on ...
+  - [`nsecure`](https://github.com/ES-Community/nsecure)
+  - [`Node-Estree`](https://github.com/fraxken/Node-Estree)
+  - Work on [`Jetlang`](https://medium.com/payfit/how-do-we-abstract-complex-business-logic-from-tech-code-6bdcf8950be3) @ Payfit.
+
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - Swift
+  - Rust
+  - Algorithms & Data Structures
+ 
+- 👯 I’m looking/loving to collaborate on ...
+  - Tools for developpers
+  - Language related project
+  - Low code / No code platforms
+
+- 📫 How to reach me:
+  - [Twitter](https://twitter.com/tonygo_)
+  - [Linkedin](https://www.linkedin.com/in/tonygorez/)
+  - [Youtube](https://www.youtube.com/channel/UC0yiy-XPDRVAgLaAiA8kvrQ)
+  - [Website](tonygo.dev)
+
+
