@@ -13,7 +13,7 @@ I'm a `software engineer`, passionate about computer science. I dedicate a lot o
   - Algorithms & Data Structures
  
 - 👯 I’m looking/loving to collaborate on ...
-  - Tools for developpers
+  - Tools for developers
   - Language related project
   - Low code / No code platforms
 
