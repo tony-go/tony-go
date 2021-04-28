@@ -1,6 +1,6 @@
 # 👋 Hi, my name is Tony
 
-I'm a `software engineer`, passionate about computer science. I dedicate a lot of my personnal time into OSS, learning & [sharing](https://www.youtube.com/channel/UC0yiy-XPDRVAgLaAiA8kvrQ)).
+I'm a `software engineer`, passionate about computer science. I dedicate a lot of my time into OSS, learning & [sharing](https://www.youtube.com/channel/UC0yiy-XPDRVAgLaAiA8kvrQ)).
 
 - 🔭 I’m currently working on ...
   - [`nsecure`](https://github.com/ES-Community/nsecure)
