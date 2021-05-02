@@ -11,6 +11,7 @@ I'm a `software engineer`, passionate about computer science. I dedicate a lot o
 - 🌱 I’m currently learning ...
   - Swift
   - Rust
+  - Ocaml
   - Algorithms & Data Structures
  
 - 👯 I’m looking/loving to collaborate on ...
