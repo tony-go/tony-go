@@ -3,15 +3,14 @@
 I'm a `software engineer`, passionate about computer science. I dedicate a lot of my time into OSS, learning & [sharing](https://www.youtube.com/channel/UC0yiy-XPDRVAgLaAiA8kvrQ)).
 
 - 🔭 I’m currently working on ...
+  - [`RestQA`](https://github.com/restqa)
   - [`babel`](https://github.com/babel/babel)
-  - [`nsecure`](https://github.com/ES-Community/nsecure)
+  - [`NodeSecure`](https://github.com/NodeSecure)
   - [`Node-Estree`](https://github.com/fraxken/Node-Estree)
-  - Work on [`Jetlang`](https://medium.com/payfit/how-do-we-abstract-complex-business-logic-from-tech-code-6bdcf8950be3) @ Payfit.
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning/practicing ...
   - Swift
   - Rust
-  - Ocaml
   - Algorithms & Data Structures
  
 - 👯 I’m looking/loving to collaborate on ...
