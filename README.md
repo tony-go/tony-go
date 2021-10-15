@@ -8,10 +8,10 @@ I'm a `software engineer`, passionate about computer science. I dedicate a lot o
   - [`NodeSecure`](https://github.com/NodeSecure)
   - [`Node-Estree`](https://github.com/fraxken/Node-Estree)
 
-- 🌱 I’m currently learning/practicing ...
-  - Swift
+- 🌱 I’m currently practicing (and learning):
+  - Node.Js / React.Js
   - Rust
-  - Algorithms & Data Structures
+  - Swift
  
 - 👯 I’m looking/loving to collaborate on ...
   - Tools for developers
@@ -24,4 +24,4 @@ I'm a `software engineer`, passionate about computer science. I dedicate a lot o
   - [Youtube](https://www.youtube.com/channel/UC0yiy-XPDRVAgLaAiA8kvrQ)
   - [Website](tonygo.dev)
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=tony-go&theme=onedark)](https://github.com/tony-go)
