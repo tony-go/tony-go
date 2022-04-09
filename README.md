@@ -18,7 +18,6 @@
   - [`RestQA`](https://github.com/restqa)
   - [`Clix`](https://github.com/tony-go/clix)
   - [`NodeSecure`](https://github.com/NodeSecure)
-  - [`Node-Estree`](https://github.com/fraxken/Node-Estree)
 
 - 💪 I’m currently practicing: 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -32,6 +31,6 @@
 - 👯 I’m looking/loving to collaborate on ...
   - Tools for developers
   - Language related project
-  - Low code / No code platforms
+  - Diagnostic tools
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tony-go&theme=onedark)](https://github.com/tony-go)
