@@ -1,15 +1,16 @@
 # 👋 Hi, my name is Tony
 
 <p><em>Software Engineer at <a href="https://www.postman.com/">Postman 👨‍🚀</a>. Passionate about computer science, I dedicate a lot of my time into OSS, learning &  <a href="https://www.youtube.com/c/tonygo">sharing.</a> I'm also a member of the <a href="https://github.com/nodejs/diagnostics">Node.Js Diagnostics working group</a>.</p></em>
-
-<a href="https://www.instagram.com/tonygo__/">
-  <img align="left" alt="Tony Gorez's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href="https://tonygo.ghost.io/">
+ Website
 </a>
+~
 <a href="https://twitter.com/tony-go">
-  <img align="left" alt="Tony Gorez's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+ Twitter
 </a>
+~
 <a href="https://www.linkedin.com/in/tonygorez/">
-  <img align="left" alt="Tony Gorez's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  Linkedin
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=tony-go.tony-go)
