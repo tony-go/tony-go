@@ -1,37 +1,30 @@
 # 👋 Hi, my name is Tony
 
-<p><em>Software Engineer at <a href="https://www.postman.com/">Postman 👨‍🚀</a>. Passionate about computer science, I dedicate a lot of my time into OSS, learning &  <a href="https://www.youtube.com/c/tonygo">sharing.</a> I'm also a member of the <a href="https://github.com/nodejs/diagnostics">Node.Js Diagnostics working group</a>.</p></em>
+ I'm a seasoned engineer with a focus on Apple technologies. 
+ 
+- I'm a key contributor to Starship, a C++ framework to create cross-platform native applications, at [Postman](https://www.postman.com/).
+  
+- I'm also a Node.Js Collaborator ([Diagnostic](https://github.com/nodejs/diagnostics), and [SEA](https://github.com/nodejs/single-executable/) WG), and various other dev tools ([NodeSecure](https://github.com/NodeSecure), [clix](https://github.com/tony-go/clix), [RestQA](https://github.com/restqa)).
+  
+- Finally, I author a blog aimed at demystifying systems programming for web developers.
+
+
 <a href="https://tonygo.ghost.io/">
  Website
 </a>
 ~
-<a href="https://twitter.com/tony-go">
- Twitter
+<a href="https://fosstodon.org/@Tonygo">
+ Fosstodon
 </a>
 ~
 <a href="https://www.linkedin.com/in/tonygorez/">
   Linkedin
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=tony-go.tony-go)
+## Polyglot
 
-- 🔭 I’m currently working on ...
-  - [`RestQA`](https://github.com/restqa)
-  - [`Clix`](https://github.com/tony-go/clix)
-  - [`NodeSecure`](https://github.com/NodeSecure)
-
-- 💪 I’m currently practicing: 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-
-- 🌱 I’m currently learning: 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
- 
-- 👯 I’m looking/loving to collaborate on ...
-  - Tools for developers
-  - Language related project
-  - Diagnostic tools
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=tony-go&theme=onedark)](https://github.com/tony-go)
