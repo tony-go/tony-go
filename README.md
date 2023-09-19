@@ -6,7 +6,7 @@
   
 - I'm also a Node.Js Collaborator ([Diagnostic](https://github.com/nodejs/diagnostics), and [SEA](https://github.com/nodejs/single-executable/) WG), and various other dev tools ([NodeSecure](https://github.com/NodeSecure), [clix](https://github.com/tony-go/clix), [RestQA](https://github.com/restqa)).
   
-- Finally, I author a blog aimed at demystifying systems programming for web developers.
+- Finally, I author [a blog to demystify systems programming](https://tonygo.ghost.io) for web developers.
 
 
 <a href="https://tonygo.ghost.io/">
