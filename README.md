@@ -2,7 +2,7 @@
 
  I'm a seasoned engineer with a focus on Apple technologies. 
  
-- I'm a key contributor to Starship, a C++ framework to create cross-platform native applications, at [Postman](https://www.postman.com/).
+- Key contributor to Starship, a C++ framework to create cross-platform native applications, at [Postman](https://www.postman.com/).
   
 - I'm also a Node.Js Collaborator ([Diagnostic](https://github.com/nodejs/diagnostics), and [SEA](https://github.com/nodejs/single-executable/) WG), and various other dev tools ([NodeSecure](https://github.com/NodeSecure), [clix](https://github.com/tony-go/clix), [RestQA](https://github.com/restqa)).
   
