@@ -1,14 +1,14 @@
 # Tony Gorez
 
-## Contact
-
-- Email - gorez.tony@gmail.com
-- LinkedIn - <https://www.linkedin.com/in/tonygorez>
-- Blog - <https://tonygo.tech>
+<p align="center" >
+  <a href="mailto:gorez.tony@gmail.com">mail</a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/tonygorez" target="_blank">linkedin</a> &nbsp;•&nbsp;
+  <a href="https://tonygo.tech" target="_blank">blog</a>
+</p>
 
 ## Experience
 
-## Bare Runtime
+### Bare Runtime
 
 **Systems Engineer, 2025 – Present**
 
