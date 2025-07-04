@@ -1,30 +1,46 @@
-# 👋 Hi, my name is Tony
+# Tony Gorez
 
- I'm a seasoned engineer with a focus on Apple technologies. 
- 
-- Key contributor to Starship, a C++ framework to create cross-platform native applications, at [Postman](https://www.postman.com/).
-  
-- I'm also a Node.Js Collaborator ([Diagnostic](https://github.com/nodejs/diagnostics), and [SEA](https://github.com/nodejs/single-executable/) WG), and various other dev tools ([NodeSecure](https://github.com/NodeSecure), [clix](https://github.com/tony-go/clix), [RestQA](https://github.com/restqa)).
-  
-- Finally, I author [a blog to demystify systems programming](https://tonygo.ghost.io) for web developers.
+## Contact
 
+- Email - gorez.tony@gmail.com
+- LinkedIn - <https://www.linkedin.com/in/tonygorez>
+- Blog - <https://tonygo.tech>
 
-<a href="https://tonygo.ghost.io/">
- Website
-</a>
-~
-<a href="https://fosstodon.org/@Tonygo">
- Fosstodon
-</a>
-~
-<a href="https://www.linkedin.com/in/tonygorez/">
-  Linkedin
-</a>
+## Experience
 
-## Polyglot
+## Bare Runtime
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+**Systems Engineer, 2025 – Present**
+
+- Integrate Push notification mechanism for iOS (`UNNotificationServiceExtension`) and Android (`FirebaseMessagingService`) into `BareKit` (which is Bare runtime integration for native applications)
+- Integrated low-level audio/video modules (`ffmpeg`, `SDL3`) into JavaScript through native bindings
+
+### NodeSecure
+
+**Security Researcher, 2021 – Present**
+
+- Maintainer of `js-x-ray`: JavaScript static analysis engine
+- Led work on malware detection through spawn/exec pattern analysis
+- Designed new security probes
+
+### Postman
+
+**R&D Engineer, 2021 – March 2025**
+
+- Lead macOS platform team: do preliminary research and help mates to pick up and achieve their goals.
+- Wrap Apple native (Objective-C) Linux and Win32 APIs (C, C++) through a unified C++ API (key-value store, open, HTTP server and client, UI).
+- Bridge various C++ APIs to the Javascript using the JavascriptCore engine.
+- Make our runtime compliant with existing Javascript and Node.Js APIs (`setTimeout`, `console`, `process`…)
+
+## tonygo.tech
+
+**Security Blog and Research**
+
+- Share explorations on macOS internals and security—not just findings, but the full journey from question to insight
+- Document reverse engineering experiences with real-world samples and tooling
+- Explain systems programming from the perspective of a web developer with no prior low-level background
+
+## Skills
+
+C, C++, JavaScript, Objective-C, Swift, Mach-O, LLDB, Binary Ninja, macOS/iOS Internals
+
