@@ -27,12 +27,12 @@ My method is to build the instrument before looking for the answer. When a syste
 > **Description:** A logic issue was addressed with improved restrictions.
 > **Credit:** Vamshi Paili, Tony Gorez (@tonygo_) for Reverse Society
 
-Fixed across [iOS &amp; iPadOS 26.5](https://support.apple.com/en-us/127110), [macOS Tahoe 26.5](https://support.apple.com/en-us/127115), tvOS 26.5, visionOS 26.5, watchOS 26.5 and iOS &amp; iPadOS 18.7.9.
+Fixed across [iOS & iPadOS 26.5](https://support.apple.com/en-us/127110), [macOS Tahoe 26.5](https://support.apple.com/en-us/127115), tvOS 26.5, visionOS 26.5, watchOS 26.5 and iOS & iPadOS 18.7.9.
 
-**Apple acknowledgment — WebKit**, [iOS &amp; iPadOS 26.6](https://support.apple.com/en-us/128066) and [macOS Tahoe 26.6](https://support.apple.com/en-us/128067)
+**Apple acknowledgment — WebKit**, [iOS & iPadOS 26.6](https://support.apple.com/en-us/128066) and [macOS Tahoe 26.6](https://support.apple.com/en-us/128067)
 Listed under Additional recognition for assistance with WebKit.
 
-## Research &amp; Tooling
+## Research & Tooling
 
 **[snixpc](https://github.com/tony-go/snixpc)** — XPC sniffer built on LLDB
 Instruments XPC traffic on macOS to make an otherwise opaque IPC surface observable.
