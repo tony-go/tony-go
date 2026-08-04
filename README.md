@@ -57,9 +57,12 @@ Static analysis of open-source packages. Contributed a suspicious-command probe 
 **Languages** · C · C++ · Objective-C · Swift · Rust · TypeScript
 **Areas** · Reverse engineering · macOS/iOS internals · Vulnerability research · Static analysis · XPC · Mach-O
 
-## Systems Engineering Background
+## Systems Engineering
 
-The foundation underneath the security work.
+The foundation underneath the security work — and what funds it.
+
+**Holepunch** — Systems Engineer, freelance *(2025–present)*
+iOS and Android systems work across the [Bare](https://github.com/holepunchto/bare) runtime ecosystem — native modules and platform bindings. Top contributor to [bare-ffmpeg](https://github.com/holepunchto/bare-ffmpeg); also [bare-kit](https://github.com/holepunchto/bare-kit), [bare-sdl](https://github.com/holepunchto/bare-sdl), bare-media, bare-bluetooth and bare-android. This consulting is what funds the research above.
 
 **Postman** — Senior Systems Engineer *(2023–2025)*
 Led all Apple platform development (C++, Objective-C, Swift) and shaped cross-OS architecture. Wrapped native Objective-C, Linux and Win32 APIs into a unified C++ layer, then bridged it to JavaScript through JavaScriptCore.
