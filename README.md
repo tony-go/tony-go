@@ -13,11 +13,9 @@ _Paris, Île-de-France_
 
 ## About
 
-I do vulnerability research and reverse engineering on Apple platforms — macOS and iOS internals, sandbox boundaries, XPC, Mach-O. Credited by Apple for a sandbox escape in App Intents (CVE-2026-28995) and for assistance on WebKit.
+I do vulnerability research and reverse engineering on Apple platforms: macOS and iOS internals, sandbox boundaries, XPC, Mach-O. Credited by Apple for a sandbox escape in App Intents (CVE-2026-28995) and for assistance on WebKit.
 
-Eight years as a systems engineer came first: C, C++ and Objective-C runtimes, native API layers, JavaScript engine internals. That's the part that matters here — I understand the code I'm attacking because I've shipped code exactly like it.
-
-My method is to build the instrument before looking for the answer. When a system is opaque, I write the tool that makes it legible, then publish what it shows me.
+Eight years as a systems engineer came first: C, C++ and Objective-C runtimes, native API layers, JavaScript engine internals. I understand the code I'm attacking because I've shipped code exactly like it.
 
 ## Apple Security Credits
 
