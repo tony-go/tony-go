@@ -41,10 +41,6 @@ Handles single-architecture and fat (universal) binaries, x86 / x86_64 / ARM / A
 **[js-x-ray](https://github.com/NodeSecure/js-x-ray)** (NodeSecure) — JavaScript malware detection
 Static analysis of open-source packages. Contributed a suspicious-command probe flagging dangerous `spawn` / `exec` usage.
 
-**[macos-lldb-reverse-engineering](https://github.com/tony-go/macos-lldb-reverse-engineering)** — RE exercise binaries
-**[XPCDemo](https://github.com/tony-go/XPCDemo)** · **[TestES](https://github.com/tony-go/TestES)** — XPC and EndpointSecurity experiments
-**[antidebug-examples](https://github.com/tony-go/antidebug-examples)** — anti-debugging techniques via fork
-
 ## Writing
 
 [**blog.reversesociety.co**](https://blog.reversesociety.co) — macOS and iOS internals through reverse engineering and practical experiment. Publishing since December 2022.
